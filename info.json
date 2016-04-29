@@ -1,0 +1,10 @@
+{
+  "name": "GACKIT",
+  "version": "0.12.0",
+  "title": "G.A.C.K.I.T Mod",
+  "author": "UberWaffe",
+  "dependencies": ["base >= 0.12.0"],
+  "contact": "",
+  "homepage": "",
+  "description": "Gaia And Chronos Kissing In a Tree is a mod about instantly growing large forests by calling upon two eldrich forces... err, laws of nature through the power of SCIENCE and the proven chemical potential of shiny pink eggs (and not at all by copious amounts of death, destruction and blood sacrifices)."
+}
